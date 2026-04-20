@@ -1,0 +1,727 @@
+[
+  {
+    "dia": "42407",
+    "duties": [
+      {
+        "time": "0.188888888888889",
+        "trainNumber": "L3122",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.363888888888889",
+        "trainNumber": "L3130",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.590277777777778",
+        "trainNumber": "L3138",
+        "dutyType": "출무(出)"
+      }
+    ]
+  },
+  {
+    "dia": "42430",
+    "duties": [
+      {
+        "time": "0.726388888888889",
+        "trainNumber": "3255",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.947222222222222",
+        "trainNumber": "3227",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.190277777777778",
+        "trainNumber": "L3224",
+        "dutyType": "도중(出)"
+      }
+    ]
+  },
+  {
+    "dia": "42107",
+    "duties": [
+      {
+        "time": "0.36875",
+        "trainNumber": "1671",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.611111111111111",
+        "trainNumber": "1674",
+        "dutyType": "도중(출)"
+      }
+    ]
+  },
+  {
+    "dia": "42402",
+    "duties": [
+      {
+        "time": "0.80625",
+        "trainNumber": "3105",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.326388888888889",
+        "trainNumber": "3106",
+        "dutyType": "출무(出)"
+      }
+    ]
+  },
+  {
+    "dia": "12345",
+    "duties": [
+      {
+        "time": "0.4826388888888889",
+        "trainNumber": "1234",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.034722222222222224",
+        "trainNumber": "3456",
+        "dutyType": "출무(出)"
+      }
+    ]
+  },
+  {
+    "dia": "53243",
+    "duties": [
+      {
+        "time": "0.9659722222222222",
+        "trainNumber": "3563",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.024305555555555556",
+        "trainNumber": "3513",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.04861111111111111",
+        "trainNumber": "9532",
+        "dutyType": "출무(전화)"
+      }
+    ]
+  },
+  {
+    "dia": "96334",
+    "duties": [
+      {
+        "time": "0.6493055555555556",
+        "trainNumber": "9563",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.014583333333333334",
+        "trainNumber": "9856",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.03263888888888889",
+        "trainNumber": "3531",
+        "dutyType": "도중(出)"
+      }
+    ]
+  },
+  {
+    "dia": "65533",
+    "duties": [
+      {
+        "time": "0.017361111111111112",
+        "trainNumber": "9633",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.01597222222222222",
+        "trainNumber": "8965",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.021527777777777778",
+        "trainNumber": "1324",
+        "dutyType": "도중(전화)"
+      }
+    ]
+  },
+  {
+    "dia": "12345",
+    "duties": [
+      {
+        "time": "0.05555555555555555",
+        "trainNumber": "1234",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.0625",
+        "trainNumber": "2345",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.06944444444444445",
+        "trainNumber": "3456",
+        "dutyType": "출무(전화)"
+      }
+    ]
+  },
+  {
+    "dia": "23456",
+    "duties": [
+      {
+        "time": "0.0763888888888889",
+        "trainNumber": "4567",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.09722222222222222",
+        "trainNumber": "6789",
+        "dutyType": "출무(出)"
+      },
+      {
+        "time": "0.10416666666666667",
+        "trainNumber": "7891",
+        "dutyType": "도중(出)"
+      }
+    ]
+  },
+  {
+    "dia": "34567",
+    "duties": [
+      {
+        "time": "0.08333333333333333",
+        "trainNumber": "8910",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.09027777777777778",
+        "trainNumber": "91011",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.1111111111111111",
+        "trainNumber": "1011",
+        "dutyType": "도중()"
+      }
+    ]
+  },
+  {
+    "dia": "45678",
+    "duties": [
+      {
+        "time": "0.11805555555555555",
+        "trainNumber": "11112",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.125",
+        "trainNumber": "1213",
+        "dutyType": "도중(출)"
+      },
+      {
+        "time": "0.13194444444444445",
+        "trainNumber": "M1314",
+        "dutyType": "도중(출)"
+      }
+    ]
+  },
+  {
+    "dia": "56789",
+    "duties": [
+      {
+        "time": "0.1388888888888889",
+        "trainNumber": "R1415",
+        "dutyType": "도중(출"
+      },
+      {
+        "time": "0.14583333333333334",
+        "trainNumber": "L1516",
+        "dutyType": "출무(出"
+      },
+      {
+        "time": "0.1527777777777778",
+        "trainNumber": "R1617",
+        "dutyType": "도중(출)"
+      }
+    ]
+  },
+  {
+    "dia": "67891",
+    "duties": [
+      {
+        "time": "0.1597222222222222",
+        "trainNumber": "1718",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.16666666666666666",
+        "trainNumber": "1819",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.1736111111111111",
+        "trainNumber": "1920",
+        "dutyType": "도중(출)"
+      }
+    ]
+  },
+  {
+    "dia": "78910",
+    "duties": [
+      {
+        "time": "0.18055555555555555",
+        "trainNumber": "9876",
+        "dutyType": "최초(도중)"
+      },
+      {
+        "time": "0.20833333333333334",
+        "trainNumber": "2345",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.19444444444444445",
+        "trainNumber": "2223",
+        "dutyType": "출무(전화)"
+      }
+    ]
+  },
+  {
+    "dia": "89101",
+    "duties": [
+      {
+        "time": "0.2222222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.25",
+        "trainNumber": "2346",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.2152777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "91011",
+    "duties": [
+      {
+        "time": "0.2638888888888889",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.2916666666666667",
+        "trainNumber": "2347",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.22916666666666666",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10111",
+    "duties": [
+      {
+        "time": "0.3055555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.3333333333333333",
+        "trainNumber": "2348",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.2777777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10112",
+    "duties": [
+      {
+        "time": "0.3472222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.375",
+        "trainNumber": "2349",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.3194444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10113",
+    "duties": [
+      {
+        "time": "0.3888888888888889",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.4166666666666667",
+        "trainNumber": "2350",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.3611111111111111",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10114",
+    "duties": [
+      {
+        "time": "0.4305555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.4583333333333333",
+        "trainNumber": "2351",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.4027777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10115",
+    "duties": [
+      {
+        "time": "0.4722222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.5",
+        "trainNumber": "2352",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.4444444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10116",
+    "duties": [
+      {
+        "time": "0.5138888888888888",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.5416666666666666",
+        "trainNumber": "2353",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.4861111111111111",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10117",
+    "duties": [
+      {
+        "time": "0.5555555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.5833333333333334",
+        "trainNumber": "2354",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.5277777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10118",
+    "duties": [
+      {
+        "time": "0.5972222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.625",
+        "trainNumber": "2355",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.5694444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10119",
+    "duties": [
+      {
+        "time": "0.6388888888888888",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.6666666666666666",
+        "trainNumber": "2356",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.6111111111111112",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10120",
+    "duties": [
+      {
+        "time": "0.6805555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.7083333333333334",
+        "trainNumber": "2357",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.6527777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10121",
+    "duties": [
+      {
+        "time": "0.7222222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.75",
+        "trainNumber": "2358",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.6944444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10122",
+    "duties": [
+      {
+        "time": "0.7638888888888888",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.7916666666666666",
+        "trainNumber": "2359",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.7361111111111112",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "0.8055555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.8333333333333334",
+        "trainNumber": "2360",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.7777777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "0.8472222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.875",
+        "trainNumber": "2361",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.8194444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "0.8888888888888888",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.9166666666666666",
+        "trainNumber": "2362",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.8611111111111112",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "0.9305555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "0.9583333333333334",
+        "trainNumber": "2363",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.9027777777777778",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "0.9722222222222222",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "1",
+        "trainNumber": "2364",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.9444444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "1.0138888888888888",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "1.0416666666666667",
+        "trainNumber": "2365",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "0.9861111111111112",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "1.0555555555555556",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "1.0833333333333333",
+        "trainNumber": "2366",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "1.0277777777777777",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "10123",
+    "duties": [
+      {
+        "time": "1.0972222222222223",
+        "trainNumber": "9876",
+        "dutyType": "최초"
+      },
+      {
+        "time": "1.125",
+        "trainNumber": "2367",
+        "dutyType": "도중(전화)"
+      },
+      {
+        "time": "1.0694444444444444",
+        "trainNumber": "5678",
+        "dutyType": "出"
+      }
+    ]
+  }
+]
