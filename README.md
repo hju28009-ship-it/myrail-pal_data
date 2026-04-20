@@ -18,7 +18,8 @@ commit & push → 사용자들이 그달 첫 실행 시 자동 다운로드
 안 했으면 version.json fetch → 앱 내 버전과 비교
 다르면 3개 파일 전부 다운로드 → localStorage 저장 → 앱 재시작
 이후 실행부터는 localStorage의 최신 데이터 사용
-gitHub에서 직접 생성한 version.json은 내가 확인하기 편하게 업데이트 때마다 version1.json, version2.json, version3.json... 으로 바꿔도 돼?
+
+Q. gitHub에서 직접 생성한 version.json은 내가 확인하기 편하게 업데이트 때마다 version1.json, version2.json, version3.json... 으로 바꿔도 돼?
 안 됩니다. 앱 코드가 version.json이라는 고정된 파일명으로 fetch하기 때문에 파일명이 바뀌면 404 오류가 납니다.
 
 대신 파일 내용에 버전 번호를 추가하면 됩니다:
