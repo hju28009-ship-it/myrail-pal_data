@@ -1,0 +1,1557 @@
+[
+  {
+    "dia": "42001",
+    "duties": [
+      {
+        "time": "9:51",
+        "trainNumber": "1642",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:58",
+        "trainNumber": "1613",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42003",
+    "duties": [
+      {
+        "time": "6:55",
+        "trainNumber": "1754",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:10",
+        "trainNumber": "1759",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42004",
+    "duties": [
+      {
+        "time": "9:54",
+        "trainNumber": "1756",
+        "dutyType": "최초"
+      },
+      {
+        "time": "17:13",
+        "trainNumber": "1761",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42005",
+    "duties": [
+      {
+        "time": "11:48",
+        "trainNumber": "1758",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:15",
+        "trainNumber": "1763",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42006",
+    "duties": [
+      {
+        "time": "20:20",
+        "trainNumber": "1766",
+        "dutyType": "최초"
+      },
+      {
+        "time": "5:36",
+        "trainNumber": "1751",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42007",
+    "duties": [
+      {
+        "time": "7:54",
+        "trainNumber": "1182",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:39",
+        "trainNumber": "1181",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42010",
+    "duties": [
+      {
+        "time": "7:27",
+        "trainNumber": "1612",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:28",
+        "trainNumber": "1641",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42011",
+    "duties": [
+      {
+        "time": "6:37",
+        "trainNumber": "4302",
+        "dutyType": "최초"
+      },
+      {
+        "time": "11:52",
+        "trainNumber": "1757",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42012",
+    "duties": [
+      {
+        "time": "12:58",
+        "trainNumber": "1702",
+        "dutyType": "최초"
+      },
+      {
+        "time": "20:41",
+        "trainNumber": "1765",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42291",
+    "duties": [
+      {
+        "time": "10:29",
+        "trainNumber": "L3226",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:33",
+        "trainNumber": "1604",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42301",
+    "duties": [
+      {
+        "time": "7:47",
+        "trainNumber": "L3334",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:50",
+        "trainNumber": "3223",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42Q07",
+    "duties": [
+      {
+        "time": "11:56",
+        "trainNumber": "707P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:24",
+        "trainNumber": "3354",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42101",
+    "duties": [
+      {
+        "time": "10:50",
+        "trainNumber": "1673",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:07",
+        "trainNumber": "1676",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42102",
+    "duties": [
+      {
+        "time": "13:27",
+        "trainNumber": "1675",
+        "dutyType": "최초"
+      },
+      {
+        "time": "19:10",
+        "trainNumber": "1678",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42103",
+    "duties": [
+      {
+        "time": "20:21",
+        "trainNumber": "1677P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "10:18",
+        "trainNumber": "1682",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42105",
+    "duties": [
+      {
+        "time": "19:33",
+        "trainNumber": "2542",
+        "dutyType": "최초"
+      },
+      {
+        "time": "7:30",
+        "trainNumber": "2541",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42106",
+    "duties": [
+      {
+        "time": "9:14",
+        "trainNumber": "2541",
+        "dutyType": "최초"
+      },
+      {
+        "time": "17:19",
+        "trainNumber": "2542",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42107",
+    "duties": [
+      {
+        "time": "8:51",
+        "trainNumber": "1671",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:40",
+        "trainNumber": "1674",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42108",
+    "duties": [
+      {
+        "time": "13:25",
+        "trainNumber": "1681",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42201",
+    "duties": [
+      {
+        "time": "20:21",
+        "trainNumber": "1677",
+        "dutyType": "최초"
+      },
+      {
+        "time": "8:19",
+        "trainNumber": "1642",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42204",
+    "duties": [
+      {
+        "time": "17:23",
+        "trainNumber": "3223",
+        "dutyType": "최초"
+      },
+      {
+        "time": "6:31",
+        "trainNumber": "1672",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42205",
+    "duties": [
+      {
+        "time": "17:46",
+        "trainNumber": "1641",
+        "dutyType": "최초"
+      },
+      {
+        "time": "5:53",
+        "trainNumber": "3382",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42401",
+    "duties": [
+      {
+        "time": "6:05",
+        "trainNumber": "L3254",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:08",
+        "trainNumber": "M3956",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42402",
+    "duties": [
+      {
+        "time": "19:21",
+        "trainNumber": "3105",
+        "dutyType": "최초"
+      },
+      {
+        "time": "7:50",
+        "trainNumber": "3106",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42403",
+    "duties": [
+      {
+        "time": "4:53",
+        "trainNumber": "3102",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:15",
+        "trainNumber": "3101",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42405",
+    "duties": [
+      {
+        "time": "7:32",
+        "trainNumber": "3191",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:50",
+        "trainNumber": "3228",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42406",
+    "duties": [
+      {
+        "time": "7:47",
+        "trainNumber": "L3381",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:24",
+        "trainNumber": "M3192",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42407",
+    "duties": [
+      {
+        "time": "4:32",
+        "trainNumber": "L3122",
+        "dutyType": "최초"
+      },
+      {
+        "time": "8:44",
+        "trainNumber": "L3130",
+        "dutyType": "출무"
+      },
+      {
+        "time": "14:10",
+        "trainNumber": "3138",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42408",
+    "duties": [
+      {
+        "time": "18:33",
+        "trainNumber": "1764P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "4:55",
+        "trainNumber": "3191",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42409",
+    "duties": [
+      {
+        "time": "6:01",
+        "trainNumber": "3122",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:47",
+        "trainNumber": "3103",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42410",
+    "duties": [
+      {
+        "time": "5:45",
+        "trainNumber": "3236",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:41",
+        "trainNumber": "M3133",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42411",
+    "duties": [
+      {
+        "time": "7:44",
+        "trainNumber": "3126",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:43",
+        "trainNumber": "M3141",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42413",
+    "duties": [
+      {
+        "time": "7:19",
+        "trainNumber": "3104",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:03",
+        "trainNumber": "M3221",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42415",
+    "duties": [
+      {
+        "time": "9:57",
+        "trainNumber": "3130",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:14",
+        "trainNumber": "M3225",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42416",
+    "duties": [
+      {
+        "time": "9:03",
+        "trainNumber": "L3132",
+        "dutyType": "최초"
+      },
+      {
+        "time": "17:54",
+        "trainNumber": "3105",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42417",
+    "duties": [
+      {
+        "time": "10:41",
+        "trainNumber": "3106",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:52",
+        "trainNumber": "3139",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42418",
+    "duties": [
+      {
+        "time": "21:54",
+        "trainNumber": "3139",
+        "dutyType": "최초"
+      },
+      {
+        "time": "4:20",
+        "trainNumber": "3222",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42419",
+    "duties": [
+      {
+        "time": "5:33",
+        "trainNumber": "3222",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:15",
+        "trainNumber": "3135",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42420",
+    "duties": [
+      {
+        "time": "10:14",
+        "trainNumber": "L3268",
+        "dutyType": "최초"
+      },
+      {
+        "time": "19:03",
+        "trainNumber": "3267",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42421",
+    "duties": [
+      {
+        "time": "5:28",
+        "trainNumber": "3171",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:55",
+        "trainNumber": "3195",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42423",
+    "duties": [
+      {
+        "time": "5:21",
+        "trainNumber": "L3188",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:28",
+        "trainNumber": "3193",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42424",
+    "duties": [
+      {
+        "time": "6:27",
+        "trainNumber": "L3192",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42425",
+    "duties": [
+      {
+        "time": "7:52",
+        "trainNumber": "L3196",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:05",
+        "trainNumber": "3172",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42426",
+    "duties": [
+      {
+        "time": "7:35",
+        "trainNumber": "1754P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:02",
+        "trainNumber": "M3197",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42427",
+    "duties": [
+      {
+        "time": "11:02",
+        "trainNumber": "L3391",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:35",
+        "trainNumber": "M3272",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42429",
+    "duties": [
+      {
+        "time": "13:58",
+        "trainNumber": "3129",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:53",
+        "trainNumber": "3193",
+        "dutyType": "출무"
+      },
+      {
+        "time": "22:31",
+        "trainNumber": "3267",
+        "dutyType": ""
+      }
+    ]
+  },
+  {
+    "dia": "42430",
+    "duties": [
+      {
+        "time": "17:26",
+        "trainNumber": "3255",
+        "dutyType": "최초"
+      },
+      {
+        "time": "22:44",
+        "trainNumber": "3227",
+        "dutyType": "출무"
+      },
+      {
+        "time": "4:34",
+        "trainNumber": "L3224",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42431",
+    "duties": [
+      {
+        "time": "6:07",
+        "trainNumber": "Y3126",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:54",
+        "trainNumber": "3261",
+        "dutyType": "出"
+      },
+      {
+        "time": "17:31",
+        "trainNumber": "3103",
+        "dutyType": ""
+      }
+    ]
+  },
+  {
+    "dia": "42432",
+    "duties": [
+      {
+        "time": "18:44",
+        "trainNumber": "3263",
+        "dutyType": "최초"
+      },
+      {
+        "time": "3:22",
+        "trainNumber": "3102",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42434",
+    "duties": [
+      {
+        "time": "8:20",
+        "trainNumber": "6401",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:31",
+        "trainNumber": "M3135",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42435",
+    "duties": [
+      {
+        "time": "9:23",
+        "trainNumber": "L3216",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42501",
+    "duties": [
+      {
+        "time": "5:50",
+        "trainNumber": "L6404",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:30",
+        "trainNumber": "M6403",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42502",
+    "duties": [
+      {
+        "time": "12:20",
+        "trainNumber": "9999",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:50",
+        "trainNumber": "9999",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42551",
+    "duties": [
+      {
+        "time": "8:50",
+        "trainNumber": "9999",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:40",
+        "trainNumber": "M3195",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42552",
+    "duties": [
+      {
+        "time": "17:39",
+        "trainNumber": "L6411",
+        "dutyType": "최초"
+      },
+      {
+        "time": "4:05",
+        "trainNumber": "3236",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42554",
+    "duties": [
+      {
+        "time": "6:01",
+        "trainNumber": "L3104",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:35",
+        "trainNumber": "L6409",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42555",
+    "duties": [
+      {
+        "time": "8:23",
+        "trainNumber": "3350",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:03",
+        "trainNumber": "M6406",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42556",
+    "duties": [
+      {
+        "time": "8:12",
+        "trainNumber": "L3345",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:50",
+        "trainNumber": "3243",
+        "dutyType": "출무"
+      },
+      {
+        "time": "20:20",
+        "trainNumber": "3172",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42557",
+    "duties": [
+      {
+        "time": "6:53",
+        "trainNumber": "6421",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42558",
+    "duties": [
+      {
+        "time": "7:40",
+        "trainNumber": "6405",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:28",
+        "trainNumber": "M3101",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42559",
+    "duties": [
+      {
+        "time": "8:51",
+        "trainNumber": "1671P",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42601",
+    "duties": [
+      {
+        "time": "7:35",
+        "trainNumber": "9999",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:10",
+        "trainNumber": "9999",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42602",
+    "duties": [
+      {
+        "time": "6:23",
+        "trainNumber": "L3264",
+        "dutyType": "최초"
+      },
+      {
+        "time": "11:45",
+        "trainNumber": "9999",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42603",
+    "duties": [
+      {
+        "time": "4:16",
+        "trainNumber": "R3171",
+        "dutyType": "최초"
+      },
+      {
+        "time": "11:50",
+        "trainNumber": "6426",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42A05",
+    "duties": [
+      {
+        "time": "19:33",
+        "trainNumber": "2542",
+        "dutyType": "최초"
+      },
+      {
+        "time": "7:30",
+        "trainNumber": "2541",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42A06",
+    "duties": [
+      {
+        "time": "9:14",
+        "trainNumber": "2541",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42B05",
+    "duties": [
+      {
+        "time": "19:33",
+        "trainNumber": "2542",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42G05",
+    "duties": [
+      {
+        "time": "21:09",
+        "trainNumber": "718P",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42C05",
+    "duties": [
+      {
+        "time": "19:33",
+        "trainNumber": "2542",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42D05",
+    "duties": [
+      {
+        "time": "21:09",
+        "trainNumber": "718P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "7:30",
+        "trainNumber": "2541",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42E06",
+    "duties": [
+      {
+        "time": "8:02",
+        "trainNumber": "2541",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42F05",
+    "duties": [
+      {
+        "time": "17:46",
+        "trainNumber": "1641",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K01",
+    "duties": [
+      {
+        "time": "6:05",
+        "trainNumber": "L3254",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K02",
+    "duties": [
+      {
+        "time": "19:21",
+        "trainNumber": "3105",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K03",
+    "duties": [
+      {
+        "time": "4:16",
+        "trainNumber": "L3104",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K05",
+    "duties": [
+      {
+        "time": "8:51",
+        "trainNumber": "1671P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:50",
+        "trainNumber": "3228",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42K06",
+    "duties": [
+      {
+        "time": "7:47",
+        "trainNumber": "L3381",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K16",
+    "duties": [
+      {
+        "time": "9:03",
+        "trainNumber": "L3132",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K17",
+    "duties": [
+      {
+        "time": "12:38",
+        "trainNumber": "1758P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "19:12",
+        "trainNumber": "3139",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42K21",
+    "duties": [
+      {
+        "time": "5:28",
+        "trainNumber": "3171",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42K25",
+    "duties": [
+      {
+        "time": "7:35",
+        "trainNumber": "1754P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:45",
+        "trainNumber": "3172",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42K27",
+    "duties": [
+      {
+        "time": "11:56",
+        "trainNumber": "707P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:35",
+        "trainNumber": "M3272",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42K30",
+    "duties": [
+      {
+        "time": "22:14",
+        "trainNumber": "3227",
+        "dutyType": "최초"
+      },
+      {
+        "time": "4:34",
+        "trainNumber": "L3224",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42K34",
+    "duties": [
+      {
+        "time": "10:11",
+        "trainNumber": "비상대기",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42L00",
+    "duties": [
+      {
+        "time": "12:38",
+        "trainNumber": "1758P",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42L01",
+    "duties": [
+      {
+        "time": "9:23",
+        "trainNumber": "L3216",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42L02",
+    "duties": [
+      {
+        "time": "20:21",
+        "trainNumber": "1677P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "7:50",
+        "trainNumber": "3106",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42L06",
+    "duties": [
+      {
+        "time": "13:27",
+        "trainNumber": "1675P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:24",
+        "trainNumber": "M3192",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42M51",
+    "duties": [
+      {
+        "time": "5:50",
+        "trainNumber": "L6404",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42N51",
+    "duties": [
+      {
+        "time": "8:50",
+        "trainNumber": "9999",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42N52",
+    "duties": [
+      {
+        "time": "17:39",
+        "trainNumber": "L6411",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42N56",
+    "duties": [
+      {
+        "time": "8:12",
+        "trainNumber": "L3345",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42Q01",
+    "duties": [
+      {
+        "time": "18:31",
+        "trainNumber": "1764P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "6:13",
+        "trainNumber": "M3121",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42Q02",
+    "duties": [
+      {
+        "time": "8:02",
+        "trainNumber": "L3334",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:50",
+        "trainNumber": "3223",
+        "dutyType": ""
+      }
+    ]
+  },
+  {
+    "dia": "42Q04",
+    "duties": [
+      {
+        "time": "8:31",
+        "trainNumber": "L3128",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42Q06",
+    "duties": [
+      {
+        "time": "5:30",
+        "trainNumber": "L3273",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42Q07",
+    "duties": [
+      {
+        "time": "11:56",
+        "trainNumber": "707P",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:24",
+        "trainNumber": "3354",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42Q08",
+    "duties": [
+      {
+        "time": "14:38",
+        "trainNumber": "3185",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42Q09",
+    "duties": [
+      {
+        "time": "5:30",
+        "trainNumber": "L3273",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42W01",
+    "duties": [
+      {
+        "time": "5:50",
+        "trainNumber": "L6404",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:30",
+        "trainNumber": "M6403",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42W15",
+    "duties": [
+      {
+        "time": "9:57",
+        "trainNumber": "3130",
+        "dutyType": "최초"
+      },
+      {
+        "time": "18:14",
+        "trainNumber": "M3225",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42W18",
+    "duties": [
+      {
+        "time": "21:54",
+        "trainNumber": "3139",
+        "dutyType": "최초"
+      },
+      {
+        "time": "4:30",
+        "trainNumber": "3222",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42W21",
+    "duties": [
+      {
+        "time": "5:28",
+        "trainNumber": "3171",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:55",
+        "trainNumber": "3195",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42W23",
+    "duties": [
+      {
+        "time": "5:21",
+        "trainNumber": "L3188",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:28",
+        "trainNumber": "3193",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42W25",
+    "duties": [
+      {
+        "time": "7:52",
+        "trainNumber": "L3196",
+        "dutyType": "최초"
+      },
+      {
+        "time": "16:05",
+        "trainNumber": "3172",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42W31",
+    "duties": [
+      {
+        "time": "6:07",
+        "trainNumber": "Y3126",
+        "dutyType": "최초"
+      },
+      {
+        "time": "13:54",
+        "trainNumber": "3261",
+        "dutyType": "出"
+      },
+      {
+        "time": "17:31",
+        "trainNumber": "3103",
+        "dutyType": "출무"
+      }
+    ]
+  },
+  {
+    "dia": "42X21",
+    "duties": [
+      {
+        "time": "5:28",
+        "trainNumber": "3171",
+        "dutyType": "최초"
+      },
+      {
+        "time": "12:55",
+        "trainNumber": "3195",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42X23",
+    "duties": [
+      {
+        "time": "5:21",
+        "trainNumber": "L3188",
+        "dutyType": "최초"
+      },
+      {
+        "time": "14:33",
+        "trainNumber": "3193",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42Y21",
+    "duties": [
+      {
+        "time": "5:28",
+        "trainNumber": "3171",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42X25",
+    "duties": [
+      {
+        "time": "7:52",
+        "trainNumber": "L3196",
+        "dutyType": "최초"
+      },
+      {
+        "time": "15:25",
+        "trainNumber": "3172",
+        "dutyType": "出"
+      }
+    ]
+  },
+  {
+    "dia": "42Y25",
+    "duties": [
+      {
+        "time": "10:34",
+        "trainNumber": "1756P",
+        "dutyType": "최초"
+      }
+    ]
+  },
+  {
+    "dia": "42Y01",
+    "duties": [
+      {
+        "time": "5:50",
+        "trainNumber": "L6404",
+        "dutyType": "최초"
+      }
+    ]
+  }
+]
