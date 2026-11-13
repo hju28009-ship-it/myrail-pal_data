@@ -5,5 +5,5 @@
   "sha256": "00a5c67de8e4c9aafd0909640ebdef5e79fae7737804b496e856a2c609010b3e",
   "notes": "업데이트 시험입니다.",
   "minVersionCode": 1,
-  "disabled": false
+  "disabled": true
 }
